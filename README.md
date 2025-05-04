@@ -8,5 +8,9 @@
 
 🌍 Open to Remote and PAN India opportunities.
 
-📫 How to reach me http://www.linkedin.com/in/sonuraj15236 ...
+📫 How to reach me http://www.linkedin.com/in/sonuraj15236
+
+📫 Email: sonuraj15236@gmail.com
+
+
 
