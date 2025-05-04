@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @SonuRaj15236
-- 👀 I’m interested in software development...
-- 🌱 I’m currently learning full stack devlopment ...
-- 💞️ I’m looking a job as Software developer...
-- 📫 How to reach me http://www.linkedin.com/in/sonuraj15236 ...
+👋 Hi, I'm Sonu Raj — a backend developer with 2.6+ years of experience building scalable REST APIs and microservices using Golang.
 
-<!---
-SonuRaj15236/SonuRaj15236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Skilled in Go, Gin, Beego, PostgreSQL, Redis, Docker, and JWT/OAuth2 authentication.
+
+🔐 Passionate about clean architecture, secure code, and performance optimization.
+
+🚀 I’ve contributed to enterprise-grade platforms in finance and healthcare.
+
+🌍 Open to Remote and PAN India opportunities.
+
+📫 How to reach me http://www.linkedin.com/in/sonuraj15236 ...
+
