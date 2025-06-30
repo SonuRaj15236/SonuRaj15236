@@ -1,4 +1,4 @@
-👋 Hi, I'm Sonu Raj — a backend developer with 2.6+ years of experience building scalable REST APIs and microservices using Golang.
+👋 Hi, I'm Sonu Raj — a backend developer with 2.8+ years of experience building scalable REST APIs and microservices using Golang.
 
 🛠️ Skilled in Go, Gin, Beego, PostgreSQL, Redis, Docker, and JWT/OAuth2 authentication.
 
